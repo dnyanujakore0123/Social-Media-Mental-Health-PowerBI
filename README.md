@@ -50,5 +50,5 @@ This Power BI dashboard analyzes the impact of social media usage on mental heal
 ## 🚀 Conclusion
 This dashboard highlights the relationship between social media usage and mental health, helping identify key behavioural patterns and risk factors.
 
-## 🙋‍♀️ Author
-- Your Name
+## Author
+Dnyaneshwari Jakore
